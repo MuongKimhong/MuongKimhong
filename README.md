@@ -1,5 +1,7 @@
 ## Hi there 👋
+I love Rust, Python, Javascript/Typescript.
 
+Currently building Famiq and exploring Bevy game engine.
 <!--
 **MuongKimhong/MuongKimhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
